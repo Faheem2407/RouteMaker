@@ -1,0 +1,19 @@
+{
+    "name": "faheem2407/route-maker",
+    "description": "A Laravel package for creating dynamic route files.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Faheem2407\\RouteMaker\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.0"
+    },
+    "authors": [
+        {
+            "name": "Faheem2407",
+            "email": "faheem24072000@gmail.com"
+        }
+    ]
+}
